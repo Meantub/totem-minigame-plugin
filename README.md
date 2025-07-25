@@ -5,13 +5,21 @@ A helper plugin for the Totem minigame in Varlamore
 ### Totem Visual Overlays
 - Color-coded totem tiles indicating totem status:
   - 🔴 Red: No base placed
+
   ![No Totem Base](./docs/totem-no-base.png)
+
   - 🟠 Orange: Base placed but not carved
+
   ![Non-carved Totem](./docs/totem-not-carved.png)
+
   - 🟡 Yellow: Base carved but not fully decorated
+
   ![Carved Totem](./docs/totem-carved.png)
+
   - 🟢 Green: Fully decorated totem
+
   ![Fully Decorated Totem](./docs/totem-decorated.png)
+
 - Customizable totem text display showing:
   - Animal names only
   - Animal numbers only (for keypad input)
@@ -24,6 +32,7 @@ A helper plugin for the Totem minigame in Varlamore
 - Live points counter panel showing total offerings collected during the session
   - TODO: Working on getting points/hour tracking going
 - Highlight tile and amount of offerings next to totem
+
 ![Totem Offerings](./docs/offerings.png)
 
 ### Ent Features
